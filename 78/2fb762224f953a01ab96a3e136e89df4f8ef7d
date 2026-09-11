@@ -1,0 +1,27 @@
+pyproject.toml
+  s_06d29880396415::t_88c32198211145 41,49
+  s_06d29880396415::t_f400c8254bb374 42
+  s_06d29880396415::t_e758699b05bd5e 50
+uv.lock
+  s_06d29880396415::t_6d6a0b192ea0f2 2283,2319,2335,2787-2810
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "782fb762224f953a01ab96a3e136e89df4f8ef7d",
+  "prompts": {},
+  "sessions": {
+    "s_06d29880396415": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08b9b-e5eb-7c60-b4ea-39c3d1eba41b",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "raunakTruxt <raunak@truxt.ai>",
+      "total_additions": 4,
+      "total_deletions": 2,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
